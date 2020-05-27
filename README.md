@@ -1,2 +1,3 @@
 # R_final project
- R class final project, track stock info and use visualize picture to analysis 
+以自主需求使用圖表製作分析個別股票內容:
+各種趨勢線,均線,交易量等等
